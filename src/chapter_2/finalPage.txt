@@ -1,0 +1,7 @@
+
+we learned git
+commit---> push
+
+and
+
+remot---->> local
